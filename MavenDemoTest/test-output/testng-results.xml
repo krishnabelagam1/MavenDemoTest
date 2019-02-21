@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="15" passed="15">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="196" started-at="2019-02-21T19:03:06Z" finished-at="2019-02-21T19:03:06Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="196" started-at="2019-02-21T19:03:06Z" finished-at="2019-02-21T19:03:06Z">
+      <class name="com.qa.test.DemoTest">
+        <test-method status="PASS" signature="add()[pri:0, instance:com.qa.test.DemoTest@56ac3a89]" name="add" duration-ms="4" started-at="2019-02-21T19:03:06Z" finished-at="2019-02-21T19:03:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add -->
+        <test-method status="PASS" signature="div()[pri:0, instance:com.qa.test.DemoTest@56ac3a89]" name="div" duration-ms="18" started-at="2019-02-21T19:03:06Z" finished-at="2019-02-21T19:03:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- div -->
+        <test-method status="PASS" signature="mod()[pri:0, instance:com.qa.test.DemoTest@56ac3a89]" name="mod" duration-ms="4" started-at="2019-02-21T19:03:06Z" finished-at="2019-02-21T19:03:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mod -->
+        <test-method status="PASS" signature="mul()[pri:0, instance:com.qa.test.DemoTest@56ac3a89]" name="mul" duration-ms="9" started-at="2019-02-21T19:03:06Z" finished-at="2019-02-21T19:03:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mul -->
+        <test-method status="PASS" signature="sub()[pri:0, instance:com.qa.test.DemoTest@56ac3a89]" name="sub" duration-ms="3" started-at="2019-02-21T19:03:06Z" finished-at="2019-02-21T19:03:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sub -->
+      </class> <!-- com.qa.test.DemoTest -->
+      <class name="com.qa.test.DemoTest1">
+        <test-method status="PASS" signature="add()[pri:0, instance:com.qa.test.DemoTest1@490ab905]" name="add" duration-ms="1" started-at="2019-02-21T19:03:06Z" finished-at="2019-02-21T19:03:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add -->
+        <test-method status="PASS" signature="div()[pri:0, instance:com.qa.test.DemoTest1@490ab905]" name="div" duration-ms="2" started-at="2019-02-21T19:03:06Z" finished-at="2019-02-21T19:03:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- div -->
+        <test-method status="PASS" signature="mod()[pri:0, instance:com.qa.test.DemoTest1@490ab905]" name="mod" duration-ms="3" started-at="2019-02-21T19:03:06Z" finished-at="2019-02-21T19:03:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mod -->
+        <test-method status="PASS" signature="mul()[pri:0, instance:com.qa.test.DemoTest1@490ab905]" name="mul" duration-ms="2" started-at="2019-02-21T19:03:06Z" finished-at="2019-02-21T19:03:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mul -->
+        <test-method status="PASS" signature="sub()[pri:0, instance:com.qa.test.DemoTest1@490ab905]" name="sub" duration-ms="2" started-at="2019-02-21T19:03:06Z" finished-at="2019-02-21T19:03:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sub -->
+      </class> <!-- com.qa.test.DemoTest1 -->
+      <class name="com.qa.test.DemoTest2">
+        <test-method status="PASS" signature="add()[pri:0, instance:com.qa.test.DemoTest2@1e397ed7]" name="add" duration-ms="19" started-at="2019-02-21T19:03:06Z" finished-at="2019-02-21T19:03:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add -->
+        <test-method status="PASS" signature="div()[pri:0, instance:com.qa.test.DemoTest2@1e397ed7]" name="div" duration-ms="3" started-at="2019-02-21T19:03:06Z" finished-at="2019-02-21T19:03:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- div -->
+        <test-method status="PASS" signature="mod()[pri:0, instance:com.qa.test.DemoTest2@1e397ed7]" name="mod" duration-ms="2" started-at="2019-02-21T19:03:06Z" finished-at="2019-02-21T19:03:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mod -->
+        <test-method status="PASS" signature="mul()[pri:0, instance:com.qa.test.DemoTest2@1e397ed7]" name="mul" duration-ms="2" started-at="2019-02-21T19:03:06Z" finished-at="2019-02-21T19:03:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mul -->
+        <test-method status="PASS" signature="sub()[pri:0, instance:com.qa.test.DemoTest2@1e397ed7]" name="sub" duration-ms="1" started-at="2019-02-21T19:03:06Z" finished-at="2019-02-21T19:03:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sub -->
+      </class> <!-- com.qa.test.DemoTest2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
